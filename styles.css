@@ -1,0 +1,394 @@
+
+body {font-family: Arial;
+height: 100%;}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+    height: 100%;
+}
+.taj{
+  font-family:Monotype Corsiva;
+  font-size:50px;
+  background-image:url('images/5771.jpg');
+  height:300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-left:400px;
+  text-align: center;
+}
+.ldk{
+  font-family:Monotype Corsiva;
+  font-size:50px;
+  background-image:url('images/Leh-Ladakh-Bike-Trip.jpg');
+  height:300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+.parallax {
+  /* The image used */
+  background-image: url("images/zanska-valley.jpg");
+
+  /* Set a specific height */
+  min-height: 300px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+    .parallax1 {
+  /* The image used */
+  background-image: url("images/uley.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+        background-size: cover;}
+    .parallax2 {
+  /* The image used */
+  background-image: url("images/Sumur-Places-To-Visit-In-Ladakh.jpg");
+
+  /* Set a specific height */
+  min-height: 300px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
+    .parallax3 {
+  /* The image used */
+  background-image: url("images/Changthang.jpg");height: 700px;width: 600px
+        
+
+  /* Set a specific height */
+  min-height: 300px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
+    .parallax4 {
+  /* The image used */
+  background-image: url("images/rumtse.jpg");
+        
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
+
+.rj{
+  font-family:Monotype Corsiva;
+  font-size:50px;
+  background-image:url('images/rajasthan.jpg');
+  height:300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+
+
+.para{
+    background-image: url(images/Kumbhalgarh-Fort.jpg);
+    min-height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;      
+}
+.para1{
+    background-image: url(images/barmer.jpg);
+    min-height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;      
+}
+.para2{
+    background-image: url(images/deogarh.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.para3{
+    background-image: url(images/dundlod.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.para4{
+    background-image: url(images/khuri.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.mgh{
+  background-image:url(images/Meghalaya.jpg);
+  font-family:Monotype Corsiva;
+  font-size:50px;
+  height:500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+.pop{
+  background-image: url(images/Langkawet.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+    
+}
+
+.pop1{
+  background-image: url(images/MAWRYNGKHANG-TREK.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+.pop2{
+  background-image: url(images/kongthong.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+
+.pop3{
+  background-image: url(images/mlb3.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+
+.pop4{
+  background-image: url(images/Nongkhnum.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+
+.gap{
+    background-image: url(images/ekkad%20caves.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;     
+    
+}
+
+.gap1{
+    background-image: url(images/silent%20valley.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+.fon{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+.ker{
+  background-image:url(images/kerala.jpg);
+  font-family:Monotype Corsiva;
+  font-size:50px;
+  height:500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.gap2{
+    background-image: url(images/ashtamudi.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+.gap3{
+    background-image: url(images/Thiruvallam-Backwaters.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+.gap4{
+    background-image: url(images/arrekal.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+.aru{
+  background-image:url(images/arunachal.jpg);
+  font-family:Monotype Corsiva;
+  font-size:50px;
+  height:500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+.hs{
+    
+  background-image: url(images/anini.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+    
+}
+
+.hs1{
+    
+  background-image: url(images/mechuka.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+    
+}
+
+.hs2{
+    
+  background-image: url(images/sangti-1.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+    
+}
+
+.hs3{
+    
+  background-image: url(images/mayodia.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+    
+}
+
+.hs4{
+    
+  background-image: url(images/Pasighat.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+    
+}
+
+@media(max-width:500px){
+  .taj{
+    background-image: url(images/taj-mob.jpg);
+    height: 300px;
+    width: 300px;
+    color: white;
+  }
+  .ldk{
+   background-image: url(images/ldk-mob.jpg);
+    font-size:20px;
+  }
+  .rj{
+    background-image: url(images/rj-mob.jpg);
+  }
+  .mgh{
+    background-image: url(images/megh-mob.jpg);
+    width:100%;
+    height: 300px;
+  }
+  .ker{
+    background-image: url(images/ker-mob.jpg);
+  }
+  .fon{
+    font-size: 14px;
+  }
+  .aru{
+    background-image: url(images/aru-mob.jpg);
+  }
+}
+
+
+
+
