@@ -1,6 +1,8 @@
 
-body {font-family: Arial;
-height: 100%;}
+html,body {font-family: Arial;
+height: 100%;
+width:100%;
+overflow-x: hidden;}
 
 /* Style the tab */
 .tab {
