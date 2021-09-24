@@ -258,7 +258,7 @@ overflow-x: hidden;}
     background-size: cover;  
 }
 .fon{
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-family:Gabriola, serif;
   font-size: 30px;
 }
 .ker{
@@ -388,6 +388,18 @@ overflow-x: hidden;}
   }
   .aru{
     background-image: url(images/aru-mob.jpg);
+  }
+  .para2{
+    background-image: url(images/deo-mob.jpg);
+  }
+  .para4{
+    background-image: url(images/khuri-mob.jpg);
+  }
+  .para{
+    background-image: url(images/kumbhalgarh-mob.jpg);
+  }
+  .para3{
+    background-image: url(images/dund-mob.jpg);
   }
 }
 
