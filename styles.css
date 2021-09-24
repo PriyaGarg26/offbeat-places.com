@@ -261,6 +261,10 @@ overflow-x: hidden;}
   font-family:Gabriola, serif;
   font-size: 30px;
 }
+.ton{
+  font-family:Gabriola, serif;
+  font-size: 30px;
+}
 .ker{
   background-image:url(images/kerala.jpg);
   font-family:Monotype Corsiva;
@@ -385,6 +389,9 @@ overflow-x: hidden;}
   }
   .fon{
     font-size: 14px;
+  }
+  .ton{
+  font-size: 12px;
   }
   .aru{
     background-image: url(images/aru-mob.jpg);
