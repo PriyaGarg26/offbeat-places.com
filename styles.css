@@ -359,7 +359,7 @@ height: 100%;}
     
 }
 
-@media(max-width:500px){
+@media(max-width:768px){
   .taj{
     background-image: url(images/taj-mob.jpg);
     height: 300px;
